@@ -1,0 +1,87 @@
+Collections örnekleri
+
+List
+3
+2
+5
+4
+5
+[1, 2, 4, 4, 3]
+
+LinkedList
+
+5
+2
+[1, 2, 4, 11, 5]
+
+HashSet
+
+1
+2
+3
+4
+5
+3
+[1, 2, 5]
+
+HashMap
+
+true
+true
+beş
+{1=BİR, 2=iki, 3=üç, 5=beş}
+
+Welcome. What would you like to do?
+1. Create a new firm or customer account
+2. Create a new Order
+3. See your receipts
+4. Exit
+4
+
+People with c on their name
+
+Adam Jack
+Declan Bryan
+
+The sum of the cost which a firm or a customer that registered in June
+
+15790.0
+
+All receipts that are priced over 1500TL
+
+Name:Adam Jack, Sector:Cars, Price:4000.0, Order Month:February
+Name:Leighton Sutter, Sector:Pharmacy, Price:3750.0, Order Month:December
+Name:Mia Wilkins, Sector:Daycare, Price:7200.0, Order Month:June
+Name:Ciaran Welsh, Sector:Cars, Price:9225.0, Order Month:February
+Name:Charles Lee, Sector:Clothing, Price:2720.0, Order Month:June
+Name:Warren Heaskel, Sector:Cars, Price:3200.0, Order Month:June
+Name:Genesis Reyes, Sector:Clothing, Price:4500.0, Order Month:March
+Name:Jane LoWall, Sector:Pharmacy, Price:2925.0, Order Month:February
+Name:Oswald Osbert, Sector:Daycare, Price:4000.0, Order Month:October
+Name:Butters Nash, Sector:Daycare, Price:11250.0, Order Month:June
+
+The average of the cost of receipts which is bigger than 1500TL
+
+5277.0
+
+The list of the customers whose receipts cost is less than 500TL
+
+Heskey Pest
+Ashley Jones
+James Waine
+Arthur Morgan
+Aston Warden
+Dutch Van Der Linde
+Ladis Washrom
+
+The names of the sectors of the firms whose June cost average is less than 750TL
+
+Old Firm has an average over 750TL
+Wanton has an average over 750TL
+Heights has an average over 750TL
+Daycare
+Gain has an average over 750TL
+Clothing
+O'Driscolls has an average over 750TL
+World End has an average over 750TL
+Likes has an average over 750TL
